@@ -36454,30 +36454,60 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-menu-1 {
-    margin-top: -80px;
-    margin-right: auto;
-    margin-left: 391px;
+    width: auto;
+    margin-top: -59px;
+    margin-right: 124px;
   }
 
   .u-header .u-social-icons-1 {
-    margin-right: 56px;
+    margin-right: -31px;
+    margin-bottom: 37px;
   }
 }
 @media (max-width: 991px) {
+  .u-header .u-sheet-1 {
+    min-height: 93px;
+  }
+
+  .u-header .u-image-1 {
+    margin-top: 1px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: -64px;
+    margin-right: auto;
+  }
+
   .u-header .u-social-icons-1 {
-    margin-right: 166px;
+    margin-right: -22px;
+    margin-bottom: 34px;
   }
 }
 @media (max-width: 767px) {
+  .u-header .u-menu-1 {
+    margin-right: -27px;
+    margin-bottom: 29px;
+  }
+
   .u-header .u-social-icons-1 {
-    margin-right: auto;
-    margin-left: 503px;
+    margin-top: -30px;
+    margin-right: -50px;
   }
 }
 @media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 92px;
+  }
+
   .u-header .u-menu-1 {
-    margin-right: 381px;
-    margin-left: auto;
+    margin-top: -62px;
+    margin-right: -24px;
+    margin-bottom: 0;
+  }
+
+  .u-header .u-social-icons-1 {
+    margin-top: -29px;
+    margin-right: auto;
   }
 }
 .u-footer .u-sheet-1 {
@@ -36524,36 +36554,39 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-image-1 {
     width: 33px;
     height: 29px;
-    margin-right: 441px;
+    margin-right: auto;
   }
 
   .u-footer .u-text-1 {
-    margin-top: -160px;
-    margin-left: 307px;
-    margin-right: 357px;
     width: 276px;
+    margin-top: -160px;
+    margin-right: 357px;
+    margin-left: 307px;
   }
 }
 @media (max-width: 991px) {
   .u-footer .u-text-1 {
-    margin-left: 197px;
+    margin-top: -160px;
     margin-right: 247px;
+    margin-left: 197px;
   }
 }
 @media (max-width: 767px) {
   .u-footer .u-text-1 {
+    margin-top: -160px;
     margin-left: 107px;
     margin-right: 157px;
   }
 }
 @media (max-width: 575px) {
   .u-footer .u-image-1 {
-    margin-right: 307px;
+    margin-top: 13px;
   }
 
   .u-footer .u-text-1 {
-    margin-left: 7px;
+    margin-top: -157px;
     margin-right: 57px;
+    margin-left: 7px;
   }
 }
 
