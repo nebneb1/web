@@ -36530,7 +36530,7 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 158px;
   min-width: 94px;
   white-space: nowrap;
-  margin: 13px auto 12px;
+  margin: 14px auto 11px;
 }
 
 .u-footer .u-icon-2 {
@@ -36562,6 +36562,10 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -160px;
     margin-right: 357px;
     margin-left: 307px;
+  }
+
+  .u-footer .u-social-icons-1 {
+    width: 158px;
   }
 }
 @media (max-width: 991px) {
