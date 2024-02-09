@@ -40,17 +40,17 @@
 }
 
 .u-section-2 .u-image-1 {
-  width: 289px;
-  height: 289px;
+  width: 361px;
+  height: 361px;
   box-shadow: 14px 21px 8px 0 rgba(128,128,128,1);
-  background-image: url("images/ScreenShot2023-01-31at3.10.53PM.png");
-  background-position: 50% 50%;
-  margin: 77px auto 0 60px;
+  background-image: url("images/IMG_0211.jpeg");
+  background-position: 50% 23.74%;
+  margin: 63px auto 0 19px;
 }
 
 .u-section-2 .u-text-1 {
   font-size: 1.125rem;
-  margin: -277px 18px 60px 497px;
+  margin: -334px 18px 60px 497px;
 }
 
 @media (max-width: 1199px) {
